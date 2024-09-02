@@ -1,0 +1,37 @@
+.head1{
+    background-color:green;
+    height:170px;
+    width:100%;
+    text-align:center;
+    color:white;
+}
+.head2{
+    background-color:blue;
+    height:60px;
+    width:100%;
+    color:white;
+    text-align:center;
+}
+.head3{
+background-color:blue;
+height:100px;
+width:100%;
+color:white;
+text-align:center;
+}
+.head6{
+    background-color:blue; 
+    color:white;
+    height:100px;
+}
+
+.head4{
+    background-color:#ff7700; 
+    color:brown;
+    height:130px;
+}
+.head5{
+    background-color:rgb(193, 47, 203);
+    color:white;
+    height:100px;
+}
